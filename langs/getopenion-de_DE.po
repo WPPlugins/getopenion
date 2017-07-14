@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: getOpenion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Aug 19 2015 18:02:51 GMT+0200 (CEST)\n"
+"PO-Revision-Date: Sat Sep 12 2015 09:02:47 GMT+0200 (CEST)\n"
+"Last-Translator: Admin <info@pius-ladenburger.de>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../class.table.php:56
+msgid "Shortcode"
+msgstr ""
+
+#. Name of the plugin
+msgid "getOpenion"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://getopenion.com/wordpress"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"getOpenion is an extremely powerful tool to create online surveys. Add "
+"surveys from getOpenion to your posts with this plugin."
+msgstr ""
+"getOpenion ist ein sehr mächtiges Tool, um Umfragen zu erstellen. Fügen Sie "
+"mit diesem Plugin Umfragen von getOpenion zu Ihren Beiträgen hinzu."
+
+#. Author of the plugin
+msgid "Pius Ladenburger"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pius-ladenburger.de"
+msgstr ""
+
+#: ../getopenion.php:230
+msgid ""
+"All getOpenion users have been disconnected. They will need to reconnect. "
+"(This message will be dismissed tomorrow)"
+msgstr ""
+"Alle getOpenion Benutzer wurden getrennt. Sie werden sich neu verbinden "
+"müssen. (Diese Nachricht ist morgen weg)"
+
+#: ../class.table.php:14
+msgid "survey"
+msgstr "Umfrage"
+
+#: ../class.table.php:15
+msgid "surveys"
+msgstr "Umfragen"
+
+#: ../class.table.php:20
+msgid "You don't have any surveys yet."
+msgstr "Sie haben noch keine Umfragen"
+
+#: ../class.table.php:20
+msgid "Add one"
+msgstr "Eine hinzufügen"
+
+#: ../class.table.php:55
+msgid "Workingtitle"
+msgstr "Arbeitstitel"
+
+#: ../class.table.php:57
+msgid "Responses"
+msgstr "Antworten"
+
+#: ../class.table.php:58
+msgid "Questions"
+msgstr "Fragen"
+
+#: ../class.table.php:59
+msgid "Created"
+msgstr "Erstellt"
+
+#: ../class.table.php:79
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../class.table.php:120 ../getopenion.php:83 ../getopenion.php:83 ../surveys.
+#: php:6
+msgid "Surveys"
+msgstr "Umfragen"
+
+#: ../getopenion.php:130 ../getopenion.php:146
+msgid "Error"
+msgstr "Fehler"
+
+#: ../surveys.php:15
+msgid "Connect to getOpenion"
+msgstr "Mit getOpenion verbinden"
+
+#: ../surveys.php:16
+msgid ""
+"Your account has not been connected with your account at getOpenion. Click "
+"the button to login at getOpenion and connect it with your blog. It's free "
+"and secure. Your surveys will not be visible to other users of your blog."
+msgstr ""
+"Sie haben Ihren Account noch nicht mit Ihrem Account bei getOpenion "
+"verbunden. Klicken Sie Knopf, um sich bei getOpenion einzuloggen und Ihren "
+"getOpenion Account mit diesem Blog zu verbinden. Es ist kostenlos und sicher."
+" Keine anderen Benutzer dieses Blogs werden zugriff auf Ihren Account haben."
+
+#: ../surveys.php:17
+msgid "Connect now"
+msgstr "Jetzt verbinden"
+
+#: ../surveys.php:21
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: ../surveys.php:38 ../surveys.php:41
+msgid "All"
+msgstr "Alle"
+
+#: ../surveys.php:38 ../surveys.php:41
+msgid "Published"
+msgstr "Veröffentlichte"

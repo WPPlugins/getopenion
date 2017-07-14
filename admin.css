@@ -1,0 +1,90 @@
+#connect_getopenion {
+    position: relative;
+    left: 25%;
+    width: 50%;
+}
+
+.button_wrap {
+    text-align: right;
+}
+
+.center.loader {
+    position: absolute;
+    top: 50%;
+    margin: 0;
+    margin-top: -20px;
+    left: 0;
+    width: 50%;
+    left: 25%;
+    text-align: center;
+}
+
+#getopenion_wrapper {
+    display: block;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#getopenion_wrapper #loading {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -10px 0 0 -10px;
+}
+
+#getopenion_wrapper label {
+    display: block;
+}
+
+#getopenion_wrapper .survey {
+    display: block !important;
+    height: 50px;
+    padding: 10px 0;
+    position: relative;
+    border-bottom: 1px solid #c9c9c9;
+    cursor: pointer;
+}
+
+#getopenion_wrapper .folder {
+    box-sizing: border-box;
+    min-height: 60px;
+    padding: 10px 0;
+    padding-left: 30px;
+    padding-top: 50px;
+    position: relative;
+    border-bottom: 1px solid #c9c9c9;
+    cursor: pointer;
+    background: rgba(224, 224, 224, 0.62);
+}
+
+#getopenion_wrapper .survey:hover {
+    background-color: #efefef;
+}
+
+#getopenion_wrapper div > h2 {
+    position: absolute;
+    padding: 10px 0 0 40px;
+    font-size: 20px;
+    font-weight: normal;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#getopenion_wrapper .survey > input {
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+
+#getopenion_admin .wp-list-table #participants {
+    width: 10%;
+}
+
+#getopenion_admin .wp-list-table #questions {
+    width: 10%;
+}
